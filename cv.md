@@ -17,12 +17,12 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * JavaScript
 ## Code Example
 ```
-function sum(a, b) {
-  return a + b;
-}
+ function sum(a, b) {
+   return a + b;
+ }
 
-const result = sum(1, 2);
-alert( result );
+ const result = sum(1, 2);
+ alert( result );
 ``` 
 ## Education
 * University:Dzjaržauny Universitet imja P.M. Mašerova
